@@ -26,8 +26,6 @@ public class Flipkart {
 		caps.setCapability("appActivity", ".activity.HomeFragmentHolderActivity");
 		caps.setCapability("noReset", "true");
 
-		// System.setProperty("webdriver.chrome.driver",
-//				"C:\\Users\\ppadman1\\Drivers\\chromedriver_win32\\chromedriver.exe");
 
 		// Instantiate Appium Driver
 //		AppiumDriver<MobileElement> driver = null;

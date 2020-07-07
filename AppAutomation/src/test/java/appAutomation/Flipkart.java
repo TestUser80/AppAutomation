@@ -39,7 +39,7 @@ public class Flipkart {
 	}
 
 	@Test
-	public void test() {
+	public void sampleTest() {
 
 	}
 }
